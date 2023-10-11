@@ -34,7 +34,7 @@ Accept-Encoding: gzip, deflate
 Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
 Connection: close
 
-![image-20231010235824835](C:\Users\Rone\Desktop\image\image-20231010235824835.png)
+![image-20231010235824835](https://github.com/GodRone/CVE/blob/main/image/image-20231010235824835.png)
 
 
 
